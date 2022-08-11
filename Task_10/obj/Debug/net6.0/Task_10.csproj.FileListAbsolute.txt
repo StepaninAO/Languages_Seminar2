@@ -1,0 +1,15 @@
+C:\Training\GeekBrains\Git\Languages\Seminar2\Task_10\bin\Debug\net6.0\Task_10.exe
+C:\Training\GeekBrains\Git\Languages\Seminar2\Task_10\bin\Debug\net6.0\Task_10.deps.json
+C:\Training\GeekBrains\Git\Languages\Seminar2\Task_10\bin\Debug\net6.0\Task_10.runtimeconfig.json
+C:\Training\GeekBrains\Git\Languages\Seminar2\Task_10\bin\Debug\net6.0\Task_10.dll
+C:\Training\GeekBrains\Git\Languages\Seminar2\Task_10\bin\Debug\net6.0\Task_10.pdb
+C:\Training\GeekBrains\Git\Languages\Seminar2\Task_10\obj\Debug\net6.0\Task_10.csproj.AssemblyReference.cache
+C:\Training\GeekBrains\Git\Languages\Seminar2\Task_10\obj\Debug\net6.0\Task_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\GeekBrains\Git\Languages\Seminar2\Task_10\obj\Debug\net6.0\Task_10.AssemblyInfoInputs.cache
+C:\Training\GeekBrains\Git\Languages\Seminar2\Task_10\obj\Debug\net6.0\Task_10.AssemblyInfo.cs
+C:\Training\GeekBrains\Git\Languages\Seminar2\Task_10\obj\Debug\net6.0\Task_10.csproj.CoreCompileInputs.cache
+C:\Training\GeekBrains\Git\Languages\Seminar2\Task_10\obj\Debug\net6.0\Task_10.dll
+C:\Training\GeekBrains\Git\Languages\Seminar2\Task_10\obj\Debug\net6.0\refint\Task_10.dll
+C:\Training\GeekBrains\Git\Languages\Seminar2\Task_10\obj\Debug\net6.0\Task_10.pdb
+C:\Training\GeekBrains\Git\Languages\Seminar2\Task_10\obj\Debug\net6.0\Task_10.genruntimeconfig.cache
+C:\Training\GeekBrains\Git\Languages\Seminar2\Task_10\obj\Debug\net6.0\ref\Task_10.dll
